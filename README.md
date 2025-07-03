@@ -54,9 +54,6 @@ fabric-java-asset-tracker/
 ├── Asset.java
 └── AssetContract.java
 
-yaml
-Copy
-Edit
 
 ---
 
